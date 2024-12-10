@@ -108,9 +108,9 @@ if __name__ == '__main__':
     }
 
     # 데이터셋 준비
-    train_dataset = CustomDataset(root_dir='./mtl_dataset_plus/Training', label_map=label_map)
-    val_dataset = CustomDataset(root_dir='./mtl_dataset_plus/Validation', label_map=label_map)
-    test_dataset = CustomDataset(root_dir='./mtl_dataset_plus/Test', label_map=label_map)
+    train_dataset = CustomDataset(root_dir='./mtl_dataset/Training', label_map=label_map)
+    val_dataset = CustomDataset(root_dir='./mtl_dataset/Validation', label_map=label_map)
+    test_dataset = CustomDataset(root_dir='./mtl_dataset/Test', label_map=label_map)
 
     # 데이터 로더 설정
     train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=4, pin_memory=True)
