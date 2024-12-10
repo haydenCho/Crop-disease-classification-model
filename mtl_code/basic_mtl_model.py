@@ -17,7 +17,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # 하이퍼파라미터 설정
 num_epochs = 10
-batch_size = 32
+batch_size = 64
 learning_rate = 0.001
 
 # GPU 설정
