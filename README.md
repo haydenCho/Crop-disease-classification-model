@@ -44,8 +44,8 @@
         - **정상 클래스와 11개의 질병으로, 총 12개의 클래스**
     - 제공하는 형태 그대로 사용하지 않고 전처리를 통해 생성된 데이터셋 사용
         - 다운로드 링크
-            - [CNN 데이터셋]()
-            - [MTL 데이터셋]()
+            - [CNN 데이터셋](https://drive.google.com/file/d/1Vzt6LNBzGN17vIpxRPkrstHbngufqPiU/view?usp=sharing)
+            - [MTL 데이터셋](https://drive.google.com/file/d/1rt0oWK8vntT2_Tf_Ri6SufPVmigre5Wc/view?usp=sharing)
 
 <br/>
 
@@ -160,8 +160,8 @@
 
 ### 코드 사용
 1. 아래 링크에서 데이터셋과 모델 파일을 다운로드 및 압축 해제
-    - [CNN 데이터셋 및 모델 다운로드]()
-    - [MTL 데이터셋 및 모델 다운로드]()
+    - [CNN 데이터셋 및 모델 다운로드](https://drive.google.com/drive/folders/16i83D4OTqcX9oFltHZUQVy4vxbhakbSk?usp=sharing)
+    - [MTL 데이터셋 및 모델 다운로드](https://drive.google.com/drive/folders/1lATnzt9CQXhkGoVPILEehBh_RZUX7WRa?usp=sharing)
 2. 깃허브 클론을 통해 로컬에 폴더를 생성
 3. 로컬에 생성된 파일에 맞게 다운로드한 데이터셋 및 모델 파일을 저장
     - 예를 들어, CNN 데이터셋 및 모델 파일이라면, "cnn_code/"에 저장
