@@ -37,6 +37,11 @@
 
 <br/>
 
+### 개발 기간
+2024.11.13 ~ 2024.12.18 (약 1개월)
+
+<br/>
+
 ### 2. 데이터셋
 - [AI-Hub의 노지 작물 질병 진단 이미지](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=147)
     - 여러가지 작물(고추, 무, 배추, 애호박, 양배추, 오이, 콩, 토마토, 파, 호박)의 질병 이미지 파일과 라벨링 파일로 이루어진 데이터셋
